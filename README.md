@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript, css, html, cpp, react, nodejs
 - 💞️ I’m looking to collaborate on any projects using js
-- 📫 How to reach me -> discord ID => { jascript }
+- 📫 How to reach me -> discord ID => { j_ask }
 
 <!---
 JuanCarlosta/JuanCarlosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
